@@ -24,7 +24,7 @@ Spotify-Clone/
 
 ├── style.css         # Styling using CSS
 
-└── images/           # Folder for album covers, icons, etc.
+└── .png /.jpeg          # File for album covers, icons, etc.
 
 
 💻 How to Use

@@ -20,18 +20,18 @@ Spotify-Clone/
 
 │
 
-├── index.html        # Main HTML file
+├── spotifyClone.html        # Main HTML file
 
-├── style.css         # Styling using CSS
+├── spotifyClone.css         # Styling using CSS
 
-└── .png /.jpeg          # File for album covers, icons, etc.
+└── .png /.jpeg              # File for album covers, icons, etc.
 
 
 💻 How to Use
 
 Download or clone this repository.
 
-Open spotifyCLone.html in your browser.
+Open spotifyClone.html in your browser.
 
 You will see the layout of a simple Spotify homepage.
 
